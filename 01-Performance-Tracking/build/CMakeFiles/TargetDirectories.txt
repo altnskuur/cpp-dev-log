@@ -1,0 +1,8 @@
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/TracerLib.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/PERFTRC.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/edit_cache.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/rebuild_cache.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/list_install_components.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/install.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/install/local.dir
+C:/Users/uguraltinisik/repos/PerformanceTracker/build/CMakeFiles/install/strip.dir

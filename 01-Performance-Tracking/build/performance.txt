@@ -1,0 +1,4 @@
+[void agirIsYapanFonksiyon()] 498720 us
+[void agirIsYapanFonksiyon()] 500440 us
+[void agirIsYapanFonksiyon()] 499696 us
+[void agirIsYapanFonksiyon()] 499411 us

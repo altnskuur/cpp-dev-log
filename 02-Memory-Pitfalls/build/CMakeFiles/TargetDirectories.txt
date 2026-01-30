@@ -1,0 +1,3 @@
+C:/Users/uguraltinisik/repos/Structural_Design/StructuralDesign/build/CMakeFiles/MEMORY_OPS.dir
+C:/Users/uguraltinisik/repos/Structural_Design/StructuralDesign/build/CMakeFiles/edit_cache.dir
+C:/Users/uguraltinisik/repos/Structural_Design/StructuralDesign/build/CMakeFiles/rebuild_cache.dir

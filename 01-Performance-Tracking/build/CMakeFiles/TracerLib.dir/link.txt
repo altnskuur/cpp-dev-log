@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libTracerLib.a CMakeFiles/TracerLib.dir/src/tracer.cpp.obj
+C:\mingw64\bin\ranlib.exe libTracerLib.a
