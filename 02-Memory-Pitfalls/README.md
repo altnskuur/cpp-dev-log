@@ -1,4 +1,4 @@
-# Memory Pitfalls
+<img width="285" height="417" alt="image" src="https://github.com/user-attachments/assets/dad08b99-74e2-4514-993c-7ec1bfc80746" /># Memory Pitfalls
 
 This project is a C++17 experimental laboratory designed to visualize and analyze common memory management errors. By utilizing a custom **Tracker** class, the project provides real-time insights into object lifetimes, stack-to-heap transitions, and the consequences of losing object ownership.
 
@@ -23,7 +23,8 @@ To keep the testing environment organized, an `enum class Operations` was implem
 * **Strong Typing**: Prevents accidental integer-to-enum conversions, ensuring that each experiment is explicitly called.
 * **Centralized Dispatch**: Allows for a structured "Test Bench" where multiple memory experiments can be executed and stored in a pointer array for post-mortem analysis.
 
-<img width="559" height="440" alt="image" src="https://github.com/user-attachments/assets/d43e85a6-ce60-4104-8991-98984ea1131b" />
+<img width="285" height="417" alt="image" src="https://github.com/user-attachments/assets/d96c5939-b43e-40ae-9fff-1c97986b7029" />
+
 
 
 ## Installation and Build
