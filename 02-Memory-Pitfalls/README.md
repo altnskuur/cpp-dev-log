@@ -23,7 +23,8 @@ To keep the testing environment organized, an `enum class Operations` was implem
 * **Strong Typing**: Prevents accidental integer-to-enum conversions, ensuring that each experiment is explicitly called.
 * **Centralized Dispatch**: Allows for a structured "Test Bench" where multiple memory experiments can be executed and stored in a pointer array for post-mortem analysis.
 
-[Image of C++ stack vs heap memory allocation diagram]
+<img width="559" height="440" alt="image" src="https://github.com/user-attachments/assets/d43e85a6-ce60-4104-8991-98984ea1131b" />
+
 
 ## Installation and Build
 
